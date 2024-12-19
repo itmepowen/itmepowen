@@ -27,3 +27,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itmepowen&show_icons=true&locale=en" alt="itmepowen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itmepowen&" alt="itmepowen" /></p>
+
+<div width="100%" align="center">
+  <p align="center">
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 19 December at 3:29 pm IST
+    <br />
+    <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
+  </p>
+  <p align="center">
+    <img  height="25" alt="Build Status" src="https://github.com/itmepowen/itmepowen/actions/workflows/main.yaml/badge.svg?branch=main"/>
+    <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/itmepowen/itmepowen?style=flat&labelColor=343b41"/>
+    <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/itmepowen/itmepowen?style=flat&labelColor=343b41"/>
+    <img  height="25" alt="Visitors" src="https://visitcount.itsvg.in/api?id=itmepowen&icon=0&color=0"/>
+    <img  height="25" alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+  </p>
+</div>
