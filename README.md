@@ -30,7 +30,7 @@
 
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March at 9:01 am IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March at 12:02 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
